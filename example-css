@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Background Color Example</title>
+    <style>
+      body {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p>This is an example of changing the background color using CSS.</p>
+  </body>
+</html>
+
+
+This code sets the background color of the body element to a light gray color (#f2f2f2). You can change the color to any other valid CSS color value to customize the background color of your webpage.
